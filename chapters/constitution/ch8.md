@@ -1,11 +1,11 @@
 #Chapter 8
 ##Interpretations of Law
 ###SEC. 8-1 SECTION AND REGULATION HEADINGS.
-The Section and Regulation headings included in THE CODE beginning with the 1995 General Revision shall not be construed or interpreted as substantive law.
+The Section and Regulation headings included in THE LIGHT beginning with the 1995 General Revision shall not be construed or interpreted as substantive law.
 ###SEC. 8-2 LAW EXPOUNDED.
 The law of the Grand Lodge shall be expounded by the Grand Lodge, or the Grand Master, or the Master of a lodge to take precedence in the order named. [13-2.2; 59-2.2].
 ###SEC. 8-3 APPEALS.
-In every case in which an appeal from any act or order is authorized by THE CODE, such appeal shall be in writing signed by the appellant.
+In every case in which an appeal from any act or order is authorized by THE LIGHT, such appeal shall be in writing signed by the appellant.
 1. The appeal shall give in detail,
 1. The facts and circumstances on which the act or order appealed from was based,
 2. The facts and circumstances on which the appeal is founded, and
