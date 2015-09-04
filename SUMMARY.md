@@ -11,3 +11,5 @@
 * [Chapter 8: Interpretations of Law](chapters/constitution/ch8.md)
 * [Chapter 9: Regulations and By-Laws of the Grand Lodge](chapters/constitution/ch9.md)
 * [Chapter 10: Amendments to the Constitution](chapters/constitution/ch10.md)
+* Chapter 11: Grand Officers Rank, Designation, Title, Qualifications, Term and Succession of Office
+
