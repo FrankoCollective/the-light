@@ -12,5 +12,5 @@
 * [Chapter 9: Regulations and By-Laws of the Grand Lodge](chapters/constitution/ch9.md)
 * [Chapter 10: Amendments to the Constitution](chapters/constitution/ch10.md)
 * [Chapter 11: Grand Officers Rank, Designation, Title, Qualifications, Term and Succession of Office](regulations/ch11.md)
-* Chapter 12: Election and Installation of Grand Officers
+* [Chapter 12: Election and Installation of Grand Officers](regulations/ch12.md)
 
