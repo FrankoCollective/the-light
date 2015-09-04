@@ -14,4 +14,5 @@
 * [Chapter 11: Grand Officers Rank, Designation, Title, Qualifications, Term and Succession of Office](regulations/ch11.md)
 * [Chapter 12: Election and Installation of Grand Officers](regulations/ch12.md)
 * [Chapter 13: Powers, Duties, and Expenses of the Grand Master](regulations/ch13.md)
+* Chapter 14: Powers, Duties, and Expenses of the Grand Master
 
