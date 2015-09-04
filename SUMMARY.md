@@ -15,5 +15,5 @@
 * [Chapter 12: Election and Installation of Grand Officers](regulations/ch12.md)
 * [Chapter 13: Powers, Duties, and Expenses of the Grand Master](regulations/ch13.md)
 * [Chapter 14: Powers and Duties of the Deputy Grand Master and the Grand Wardens](regulations/ch14.md)
-* Chapter 15: Duties of the Grand Treasurer
+* [Chapter 15: Duties of the Grand Treasurer](regulations/ch15.md)
 
