@@ -16,8 +16,8 @@
 * [Chapter 13: Powers, Duties, and Expenses of the Grand Master](regulations/ch13.md)
 * [Chapter 14: Powers and Duties of the Deputy Grand Master and the Grand Wardens](regulations/ch14.md)
 * [Chapter 15: Duties of the Grand Treasurer](regulations/ch15.md)
-* [Chapter 16: Duties of the Grand Secretary] (regulations/ch16.md)
-* [Chapter 17:	Duties of Appointive Grand Officers]
+* [Chapter 16: Duties of the Grand Secretary](regulations/ch16.md)
+* [Chapter 17:	Duties of Appointive Grand Officers](regulations/ch17.md)
 * [Chapter 18:	Grand Lodge Communications, Quorum, Presiding Officer and Registration]
 * [Chapter 19:	Voting in the Grand Lodge]
 * [Chapter 20:	Per Capita Tax and Initiation Fee]
