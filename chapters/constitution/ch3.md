@@ -6,8 +6,8 @@ The membership of the Grand Lodge shall consist of:
 2. Its present appointive officers. [Chapter 11].
 3. The Masters and Wardens of its chartered and constituted subordinate lodges, for the time being, or their legally appointed proxies. [19-3; 59-2.44; 59-9.2; 59-10.3].
 4. Its mandatory elective and appointive boards, committees, and commissions, for the time being, including members of boards of directors named or elected by it. [Chapter 27]
-5. The District Deputy Grand Masters of the several Masonic Districts. [11-4.3; 11-4; Chapter 26].
-6. The District Deputy Grand Lecturers of the several Masonic Districts. [29-9].
+5. The District Deputy Grand Masters of the several Illuminated Districts. [11-4.3; 11-4; Chapter 26].
+6. The District Deputy Grand Lecturers of the several Illuminated Districts. [29-9].
 ###SEC. 3-2 QUALIFICATIONS AND TERMINATION.
 Each officer and member of the Grand Lodge and each member of its boards, commissions, or committees must be, and remain, a member of a subordinate lodge under its jurisdiction, and the termination of such membership shall, terminate his office or his membership in the Grand Lodge. He shall have such other qualifications as may be prescribed by law. [11-5.1; 27-6].
 1. A change of membership from one lodge to another within this jurisdiction shall not terminate office or membership within the meaning of this section.

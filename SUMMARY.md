@@ -18,76 +18,76 @@
 * [Chapter 15: Duties of the Grand Treasurer](regulations/ch15.md)
 * [Chapter 16: Duties of the Grand Secretary](regulations/ch16.md)
 * [Chapter 17:	Duties of Appointive Grand Officers](regulations/ch17.md)
-* [Chapter 18:	Grand Lodge Communications, Quorum, Presiding Officer and Registration]
-* [Chapter 19:	Voting in the Grand Lodge]
-* [Chapter 20:	Per Capita Tax and Initiation Fee]
-* [Chapter 21:	Fiscal Year, Compensation, & Disbursements]
-* [Chapter 22:	Grand Lodge Financial Reports and Audit]
-* [Chapter 23:	Annual Proceedings of the Grand Lodge]
-* [Chapter 24:	Authorized Ritualistic Work, Official Standard of the Work and Vocabulary]
-* [Chapter 25:	Joint Enterprises]
-* [Chapter 26:	District Deputy Grand Master, Qualifications, Powers and Duties]
-* [Chapter 27:	Boards, Commissions, and Committees of the Grand Lodge]
-* [Chapter 28:	Board of General Purposes]
-* [Chapter 29:	Board of Custodians, Masonic Education, Lecture Service]
-* [Chapter 30:	Grand Lodge Committee on Masonic Education]
-* [Chapter 31:	Lodge Service Commission]
-* [Chapter 32:	Commission on Special Activities]
-* [Chapter 33:	Code Commission]
-* [Chapter 34:	Grand Lodge Committees Committee on Masonic Jurisprudence]
-* [Chapter 35:	The North Carolina Masonic Foundation, Incorporated]
-* [Chapter 36:	Parliamentary Usage in the Grand Lodge]
-* [Chapter 37:	Opening and Order of Business at the Annual Communication of the Grand Lodge]
-* [Chapter 38:	Subordinate Lodge Defined]
-* [Chapter 39:	Lodge Under Dispensation]
-* [Chapter 40:	Issuance of Charter for a Subordinate Lodge]
-* [Chapter 41:	Loss of Charter]
-* [Chapter 42:	Subordinate Lodge Jurisdiction]
-* [Chapter 43:	Subordinate Lodge Powers and Duties]
-* [Chapter 44:	Uniform Code of By-Laws for a Lodge]
-* [Chapter 45:	Communication of a Lodge]
-* [Chapter 46:	Seal of a Lodge]
-* [Chapter 47:	Return of a Lodge]
-* [Chapter 48:	Consolidating Lodges]
-* [Chapter 49:	Defunct and Dormant Lodges]
-* [Chapter 50:	Visitation]
-* [Chapter 51:	Avouchment]
-* [Chapter 52:	Members of a Lodge]
-* [Chapter 53:	Officers of a Lodge, Roster, and Qualifications]
-* [Chapter 54:	Election of Officers of a Lodge]
-* [Chapter 55:	Installation of Officers of a Lodge]
-* [Chapter 56:	Officers of a Lodge, Term, Resignation, and Title]
-* [Chapter 57:	Vacancies in Office of a Lodge]
-* [Chapter 58:	Suspension from Office]
-* [Chapter 59:	Duties of Officers of a Lodge]
-* [Chapter 60:	Trustees of a Lodge]
-* [Chapter 61:	Committees of a Lodge]
-* [Chapter 62:	Books and Records of a Lodge]
-* [Chapter 63:	Voting in a Lodge]
-* [Chapter 64:	Fees for the Degrees]
-* [Chapter 65:	Petitions for Degrees]
-* [Chapter 66:	Petitioners Qualifications]
-* [Chapter 67:	Committee of Investigation and Its Report]
-* [Chapter 68:	The Secret Ballot]
-* [Chapter 69:	Elected Petitioner]
-* [Chapter 70:	Rejected Petitioner or Applicant]
-* [Chapter 71:	Degrees]
-* [Chapter 72:	Proficiency]
-* [Chapter 73:	Advancement and Default]
-* [Chapter 74:	Masonic Status]
-* [Chapter 75:	Affiliation]
-* [Chapter 76:	Demits]
-* [Chapter 77:	Dues]
-* [Chapter 78:	Restoration after Exclusion]
-* [Chapter 79:	Life Membership]
-* [Chapter 80:	Service Awards]
-* [Chapter 81:	Honorary Membership]
-* [Chapter 82:	Burials]
-* [Chapter 83:	Summons]
-* [Chapter 84:	Laying Cornerstones and Dedicating Lodge Buildings]
-* [Chapter 85:	Appeals for Aid]
-* [Chapter 86:	Masonic Offenses]
-* [Chapter 87:	Definitions]
-* [Chapter 88:	Official Forms]
-* [Chapter 89:	Aprons, Jewels, and Seals]
+* [Chapter 18:	Grand Lodge Communications, Quorum, Presiding Officer and Registration](regulations/ch18.md)
+* [Chapter 19:	Voting in the Grand Lodge](regulations/ch19.md)
+* [Chapter 20:	Per Capita Tax and Initiation Fee](regulations/ch20.md)
+* [Chapter 21:	Fiscal Year, Compensation, & Disbursements](regulations/ch21.md)
+* [Chapter 22:	Grand Lodge Financial Reports and Audit](regulations/ch22.md)
+* [Chapter 23:	Annual Proceedings of the Grand Lodge](regulations/ch23.md)
+* [Chapter 24:	Authorized Ritualistic Work, Official Standard of the Work and Vocabulary](regulations/ch24.md)
+* [Chapter 25:	Joint Enterprises](regulations/ch25.md)
+* [Chapter 26:	District Deputy Grand Master, Qualifications, Powers and Duties](regulations/ch26.md)
+* [Chapter 27:	Boards, Commissions, and Committees of the Grand Lodge](regulations/ch27.md)
+* [Chapter 28:	Board of General Purposes](regulations/ch28.md)
+* [Chapter 29:	Board of Custodians, Illuminated Education, Lecture Service](regulations/ch29.md)
+* [Chapter 30:	Grand Lodge Committee on Illuminated Education](regulations/ch30.md)
+* [Chapter 31:	Lodge Service Commission](regulations/ch31.md)
+* [Chapter 32:	Commission on Special Activities](regulations/ch32.md)
+* [Chapter 33:	Code Commission](regulations/ch33.md)
+* [Chapter 34:	Grand Lodge Committees Committee on Illuminated Jurisprudence](regulations/ch34.md)
+* [Chapter 35:	The North Carolina Illuminated Foundation, Incorporated](regulations/ch35.md)
+* [Chapter 36:	Parliamentary Usage in the Grand Lodge](regulations/ch36.md)
+* [Chapter 37:	Opening and Order of Business at the Annual Communication of the Grand Lodge](regulations/ch37.md)
+* [Chapter 38:	Subordinate Lodge Defined](regulations/ch38.md)
+* [Chapter 39:	Lodge Under Dispensation](regulations/ch39.md)
+* [Chapter 40:	Issuance of Charter for a Subordinate Lodge](regulations/ch40.md)
+* [Chapter 41:	Loss of Charter](regulations/ch41.md)
+* [Chapter 42:	Subordinate Lodge Jurisdiction](regulations/ch42.md)
+* [Chapter 43:	Subordinate Lodge Powers and Duties](regulations/ch43.md)
+* [Chapter 44:	Uniform Code of By-Laws for a Lodge](regulations/ch44.md)
+* [Chapter 45:	Communication of a Lodge](regulations/ch45.md)
+* [Chapter 46:	Seal of a Lodge](regulations/ch46.md)
+* [Chapter 47:	Return of a Lodge](regulations/ch47.md)
+* [Chapter 48:	Consolidating Lodges](regulations/ch48.md)
+* [Chapter 49:	Defunct and Dormant Lodges](regulations/ch49.md)
+* [Chapter 50:	Visitation](regulations/ch50.md)
+* [Chapter 51:	Avouchment](regulations/ch51.md)
+* [Chapter 52:	Members of a Lodge](regulations/ch52.md)
+* [Chapter 53:	Officers of a Lodge, Roster, and Qualifications](regulations/ch53.md)
+* [Chapter 54:	Election of Officers of a Lodge](regulations/ch54.md)
+* [Chapter 55:	Installation of Officers of a Lodge](regulations/ch55.md)
+* [Chapter 56:	Officers of a Lodge, Term, Resignation, and Title](regulations/ch56.md)
+* [Chapter 57:	Vacancies in Office of a Lodge](regulations/ch57.md)
+* [Chapter 58:	Suspension from Office](regulations/ch58.md)
+* [Chapter 59:	Duties of Officers of a Lodge](regulations/ch59.md)
+* [Chapter 60:	Trustees of a Lodge](regulations/ch60.md)
+* [Chapter 61:	Committees of a Lodge](regulations/ch61.md)
+* [Chapter 62:	Books and Records of a Lodge](regulations/ch62.md)
+* [Chapter 63:	Voting in a Lodge](regulations/ch63.md)
+* [Chapter 64:	Fees for the Degrees](regulations/ch64.md)
+* [Chapter 65:	Petitions for Degrees](regulations/ch65.md)
+* [Chapter 66:	Petitioners Qualifications](regulations/ch66.md)
+* [Chapter 67:	Committee of Investigation and Its Report](regulations/ch67.md)
+* [Chapter 68:	The Secret Ballot](regulations/ch68.md)
+* [Chapter 69:	Elected Petitioner](regulations/ch69.md)
+* [Chapter 70:	Rejected Petitioner or Applicant](regulations/ch70.md)
+* [Chapter 71:	Degrees](regulations/ch71.md)
+* [Chapter 72:	Proficiency](regulations/ch72.md)
+* [Chapter 73:	Advancement and Default](regulations/ch73.md)
+* [Chapter 74:	Illuminated Status](regulations/ch74.md)
+* [Chapter 75:	Affiliation](regulations/ch75.md)
+* [Chapter 76:	Demits](regulations/ch76.md)
+* [Chapter 77:	Dues](regulations/ch77.md)
+* [Chapter 78:	Restoration after Exclusion](regulations/ch78.md)
+* [Chapter 79:	Life Membership](regulations/ch79.md)
+* [Chapter 80:	Service Awards](regulations/ch80.md)
+* [Chapter 81:	Honorary Membership](regulations/ch81.md)
+* [Chapter 82:	Burials](regulations/ch82.md)
+* [Chapter 83:	Summons](regulations/ch83.md)
+* [Chapter 84:	Laying Cornerstones and Dedicating Lodge Buildings](regulations/ch84.md)
+* [Chapter 85:	Appeals for Aid](regulations/ch85.md)
+* [Chapter 86:	Illuminated Offenses](regulations/ch86.md)
+* [Chapter 87:	Definitions](regulations/ch87.md)
+* [Chapter 88:	Official Forms](regulations/ch88.md)
+* [Chapter 89:	Aprons, Jewels, and Seals](regulations/ch89.md)
 
